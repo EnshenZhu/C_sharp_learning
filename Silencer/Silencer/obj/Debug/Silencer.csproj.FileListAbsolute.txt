@@ -1,0 +1,8 @@
+D:\C_sharp_learning\Silencer\Silencer\bin\Debug\Silencer.exe.config
+D:\C_sharp_learning\Silencer\Silencer\bin\Debug\Silencer.exe
+D:\C_sharp_learning\Silencer\Silencer\bin\Debug\Silencer.pdb
+D:\C_sharp_learning\Silencer\Silencer\obj\Debug\Silencer.csproj.AssemblyReference.cache
+D:\C_sharp_learning\Silencer\Silencer\obj\Debug\Silencer.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\Silencer\Silencer\obj\Debug\Silencer.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\Silencer\Silencer\obj\Debug\Silencer.exe
+D:\C_sharp_learning\Silencer\Silencer\obj\Debug\Silencer.pdb
