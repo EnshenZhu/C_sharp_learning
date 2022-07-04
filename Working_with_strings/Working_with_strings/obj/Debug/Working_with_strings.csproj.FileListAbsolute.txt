@@ -1,0 +1,8 @@
+D:\C_sharp_learning\Working_with_strings\Working_with_strings\bin\Debug\Working_with_strings.exe.config
+D:\C_sharp_learning\Working_with_strings\Working_with_strings\bin\Debug\Working_with_strings.exe
+D:\C_sharp_learning\Working_with_strings\Working_with_strings\bin\Debug\Working_with_strings.pdb
+D:\C_sharp_learning\Working_with_strings\Working_with_strings\obj\Debug\Working_with_strings.csproj.AssemblyReference.cache
+D:\C_sharp_learning\Working_with_strings\Working_with_strings\obj\Debug\Working_with_strings.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\Working_with_strings\Working_with_strings\obj\Debug\Working_with_strings.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\Working_with_strings\Working_with_strings\obj\Debug\Working_with_strings.exe
+D:\C_sharp_learning\Working_with_strings\Working_with_strings\obj\Debug\Working_with_strings.pdb

@@ -1,0 +1,8 @@
+D:\C_sharp_learning\Data_Types\Data_Types\bin\Debug\Data_Types.exe.config
+D:\C_sharp_learning\Data_Types\Data_Types\bin\Debug\Data_Types.exe
+D:\C_sharp_learning\Data_Types\Data_Types\bin\Debug\Data_Types.pdb
+D:\C_sharp_learning\Data_Types\Data_Types\obj\Debug\Data_Types.csproj.AssemblyReference.cache
+D:\C_sharp_learning\Data_Types\Data_Types\obj\Debug\Data_Types.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\Data_Types\Data_Types\obj\Debug\Data_Types.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\Data_Types\Data_Types\obj\Debug\Data_Types.exe
+D:\C_sharp_learning\Data_Types\Data_Types\obj\Debug\Data_Types.pdb
