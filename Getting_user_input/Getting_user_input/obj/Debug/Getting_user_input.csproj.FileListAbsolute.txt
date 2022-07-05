@@ -1,0 +1,8 @@
+D:\C_sharp_learning\Getting_user_input\Getting_user_input\bin\Debug\Getting_user_input.exe.config
+D:\C_sharp_learning\Getting_user_input\Getting_user_input\bin\Debug\Getting_user_input.exe
+D:\C_sharp_learning\Getting_user_input\Getting_user_input\bin\Debug\Getting_user_input.pdb
+D:\C_sharp_learning\Getting_user_input\Getting_user_input\obj\Debug\Getting_user_input.csproj.AssemblyReference.cache
+D:\C_sharp_learning\Getting_user_input\Getting_user_input\obj\Debug\Getting_user_input.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\Getting_user_input\Getting_user_input\obj\Debug\Getting_user_input.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\Getting_user_input\Getting_user_input\obj\Debug\Getting_user_input.exe
+D:\C_sharp_learning\Getting_user_input\Getting_user_input\obj\Debug\Getting_user_input.pdb
