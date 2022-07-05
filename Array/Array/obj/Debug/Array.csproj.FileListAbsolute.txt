@@ -1,0 +1,8 @@
+D:\C_sharp_learning\Array\Array\bin\Debug\Array.exe.config
+D:\C_sharp_learning\Array\Array\bin\Debug\Array.exe
+D:\C_sharp_learning\Array\Array\bin\Debug\Array.pdb
+D:\C_sharp_learning\Array\Array\obj\Debug\Array.csproj.AssemblyReference.cache
+D:\C_sharp_learning\Array\Array\obj\Debug\Array.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\Array\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\Array\Array\obj\Debug\Array.exe
+D:\C_sharp_learning\Array\Array\obj\Debug\Array.pdb
