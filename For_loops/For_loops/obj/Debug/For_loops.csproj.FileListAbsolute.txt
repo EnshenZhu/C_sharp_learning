@@ -1,0 +1,8 @@
+D:\C_sharp_learning\For_loops\For_loops\bin\Debug\For_loops.exe.config
+D:\C_sharp_learning\For_loops\For_loops\bin\Debug\For_loops.exe
+D:\C_sharp_learning\For_loops\For_loops\bin\Debug\For_loops.pdb
+D:\C_sharp_learning\For_loops\For_loops\obj\Debug\For_loops.csproj.AssemblyReference.cache
+D:\C_sharp_learning\For_loops\For_loops\obj\Debug\For_loops.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\For_loops\For_loops\obj\Debug\For_loops.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\For_loops\For_loops\obj\Debug\For_loops.exe
+D:\C_sharp_learning\For_loops\For_loops\obj\Debug\For_loops.pdb
