@@ -1,0 +1,8 @@
+D:\C_sharp_learning\While_loop\While_loop\bin\Debug\While_loop.exe.config
+D:\C_sharp_learning\While_loop\While_loop\bin\Debug\While_loop.exe
+D:\C_sharp_learning\While_loop\While_loop\bin\Debug\While_loop.pdb
+D:\C_sharp_learning\While_loop\While_loop\obj\Debug\While_loop.csproj.AssemblyReference.cache
+D:\C_sharp_learning\While_loop\While_loop\obj\Debug\While_loop.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\While_loop\While_loop\obj\Debug\While_loop.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\While_loop\While_loop\obj\Debug\While_loop.exe
+D:\C_sharp_learning\While_loop\While_loop\obj\Debug\While_loop.pdb
