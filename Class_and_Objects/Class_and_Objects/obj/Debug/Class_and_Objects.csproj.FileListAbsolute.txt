@@ -1,0 +1,8 @@
+D:\C_sharp_learning\Class_and_Objects\Class_and_Objects\bin\Debug\Class_and_Objects.exe.config
+D:\C_sharp_learning\Class_and_Objects\Class_and_Objects\bin\Debug\Class_and_Objects.exe
+D:\C_sharp_learning\Class_and_Objects\Class_and_Objects\bin\Debug\Class_and_Objects.pdb
+D:\C_sharp_learning\Class_and_Objects\Class_and_Objects\obj\Debug\Class_and_Objects.csproj.AssemblyReference.cache
+D:\C_sharp_learning\Class_and_Objects\Class_and_Objects\obj\Debug\Class_and_Objects.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\Class_and_Objects\Class_and_Objects\obj\Debug\Class_and_Objects.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\Class_and_Objects\Class_and_Objects\obj\Debug\Class_and_Objects.exe
+D:\C_sharp_learning\Class_and_Objects\Class_and_Objects\obj\Debug\Class_and_Objects.pdb

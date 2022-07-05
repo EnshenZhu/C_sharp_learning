@@ -1,0 +1,8 @@
+D:\C_sharp_learning\2d_arrays\2d_arrays\bin\Debug\2d_arrays.exe.config
+D:\C_sharp_learning\2d_arrays\2d_arrays\bin\Debug\2d_arrays.exe
+D:\C_sharp_learning\2d_arrays\2d_arrays\bin\Debug\2d_arrays.pdb
+D:\C_sharp_learning\2d_arrays\2d_arrays\obj\Debug\2d_arrays.csproj.AssemblyReference.cache
+D:\C_sharp_learning\2d_arrays\2d_arrays\obj\Debug\2d_arrays.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\2d_arrays\2d_arrays\obj\Debug\2d_arrays.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\2d_arrays\2d_arrays\obj\Debug\2d_arrays.exe
+D:\C_sharp_learning\2d_arrays\2d_arrays\obj\Debug\2d_arrays.pdb
