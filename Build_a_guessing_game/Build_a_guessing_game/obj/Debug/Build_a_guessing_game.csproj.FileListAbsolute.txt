@@ -1,0 +1,8 @@
+D:\C_sharp_learning\Build_a_guessing_game\Build_a_guessing_game\bin\Debug\Build_a_guessing_game.exe.config
+D:\C_sharp_learning\Build_a_guessing_game\Build_a_guessing_game\bin\Debug\Build_a_guessing_game.exe
+D:\C_sharp_learning\Build_a_guessing_game\Build_a_guessing_game\bin\Debug\Build_a_guessing_game.pdb
+D:\C_sharp_learning\Build_a_guessing_game\Build_a_guessing_game\obj\Debug\Build_a_guessing_game.csproj.AssemblyReference.cache
+D:\C_sharp_learning\Build_a_guessing_game\Build_a_guessing_game\obj\Debug\Build_a_guessing_game.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\Build_a_guessing_game\Build_a_guessing_game\obj\Debug\Build_a_guessing_game.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\Build_a_guessing_game\Build_a_guessing_game\obj\Debug\Build_a_guessing_game.exe
+D:\C_sharp_learning\Build_a_guessing_game\Build_a_guessing_game\obj\Debug\Build_a_guessing_game.pdb
