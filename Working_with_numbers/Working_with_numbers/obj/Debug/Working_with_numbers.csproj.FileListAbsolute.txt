@@ -1,0 +1,8 @@
+D:\C_sharp_learning\Working_with_numbers\Working_with_numbers\bin\Debug\Working_with_numbers.exe.config
+D:\C_sharp_learning\Working_with_numbers\Working_with_numbers\bin\Debug\Working_with_numbers.exe
+D:\C_sharp_learning\Working_with_numbers\Working_with_numbers\bin\Debug\Working_with_numbers.pdb
+D:\C_sharp_learning\Working_with_numbers\Working_with_numbers\obj\Debug\Working_with_numbers.csproj.AssemblyReference.cache
+D:\C_sharp_learning\Working_with_numbers\Working_with_numbers\obj\Debug\Working_with_numbers.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\Working_with_numbers\Working_with_numbers\obj\Debug\Working_with_numbers.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\Working_with_numbers\Working_with_numbers\obj\Debug\Working_with_numbers.exe
+D:\C_sharp_learning\Working_with_numbers\Working_with_numbers\obj\Debug\Working_with_numbers.pdb
