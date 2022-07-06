@@ -1,0 +1,8 @@
+D:\C_sharp_learning\findTheMissingNum\findTheMissingNum\bin\Debug\findTheMissingNum.exe.config
+D:\C_sharp_learning\findTheMissingNum\findTheMissingNum\bin\Debug\findTheMissingNum.exe
+D:\C_sharp_learning\findTheMissingNum\findTheMissingNum\bin\Debug\findTheMissingNum.pdb
+D:\C_sharp_learning\findTheMissingNum\findTheMissingNum\obj\Debug\findTheMissingNum.csproj.AssemblyReference.cache
+D:\C_sharp_learning\findTheMissingNum\findTheMissingNum\obj\Debug\findTheMissingNum.csproj.SuggestedBindingRedirects.cache
+D:\C_sharp_learning\findTheMissingNum\findTheMissingNum\obj\Debug\findTheMissingNum.csproj.CoreCompileInputs.cache
+D:\C_sharp_learning\findTheMissingNum\findTheMissingNum\obj\Debug\findTheMissingNum.exe
+D:\C_sharp_learning\findTheMissingNum\findTheMissingNum\obj\Debug\findTheMissingNum.pdb
